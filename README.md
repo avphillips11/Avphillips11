@@ -4,7 +4,7 @@
 
 ---
 
-Security and AI have more in common than most people think — both require 
+Security and AI have more in common than most people think. Both require 
 structure, oversight, and someone willing to ask the hard questions.
 
 I'm a GRC and Privacy Analyst with a product manager brain. I solve 
