@@ -1,6 +1,6 @@
 # Alyssa Phillips
 
-**Principal Program Manager · GRC & AI Governance · Blue Ridge Mountains, NC**
+**Principal Program Manager · GRC & AI Governance · North Carolina**
 
 ---
 
