@@ -7,10 +7,10 @@
 Security and AI have more in common than most people think. Both require
 structure, oversight, and someone willing to ask the hard questions.
 
-I'm a GRC and Privacy Analyst with a product manager brain. I solve
-security and process problems by building agentic AI solutions — not to replace
-the work, but to make it sharper, faster, and more defensible. AI is a tool in
-my hands, not a substitute for judgment.
+I'm a GRC and Privacy leader who solves security and process problems by
+building agentic AI solutions — not to replace the work, but to make it
+sharper, faster, and more defensible. AI is a tool in my hands, not a
+substitute for judgment.
 
 My perspective on AI is simple: it's another program that needs to be managed.
 That means enablement, governance, risk assessment, and accountability — the
